@@ -1,3 +1,4 @@
+import Action from '../components/Actions'
 import Auth from '../components/Auth'
 import Hero from '../components/Hero'
 import Navbar from '../components/Navbar'
@@ -11,6 +12,7 @@ function Home() {
         <Shine />
         <Hero />
         <Auth />
+        <Action />
       </div>
     </>
   )

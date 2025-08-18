@@ -1,0 +1,20 @@
+{
+    title: "Social",
+    banner: SoonBanner,
+    description: "Feature coming soon!",
+  },
+  {
+    title: "Ranked",
+    banner: SoonBanner,
+    description: "Feature coming soon!",
+  },
+  {
+    title: "Match History",
+    banner: SoonBanner,
+    description: "Feature coming soon!",
+  },
+  {
+    title: "Stats",
+    banner: SoonBanner,
+    description: "Feature coming soon!",
+  },
