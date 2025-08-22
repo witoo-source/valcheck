@@ -9,7 +9,6 @@ function App() {
     <Router>
       <Routes>
         {Object.entries(pages).map(([path, module]) => {
-          // Convierte "./pages/Home.jsx" → "/home"
           const routePath =
             "/" +
             path
